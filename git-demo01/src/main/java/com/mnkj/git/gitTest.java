@@ -1,4 +1,4 @@
-package main.java.com.mnkj.git;
+package com.mnkj.git;
 
 public class gitTest {
     public static void main(String[] args) {
